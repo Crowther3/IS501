@@ -1,0 +1,42 @@
+/*Kyle Crowther Edited 12-8-21 */
+.bold{
+    font-weight:bold;
+}
+.Verdana {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Title{
+    Font-family:Arial;
+    color: blue;
+    
+}
+li{
+    font-family:sans-serif;
+    color: rgb(81, 81, 247);
+}
+.subheader{
+    float:right;
+}
+.common{
+     position: absolute;}
+.header{
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height:100px;
+    z-index: 2;
+    border-bottom:solid 1px #555555;}
+.mainbody{
+    top:114px;
+    bottom:64px;
+    left:114px;
+    right:114px;
+    padding-right:5px;}
+.footer{
+    bottom:5px;
+    height:50px;
+    left:5px;
+    right:5px;
+    text-align: center;
+    position:fixed;}
